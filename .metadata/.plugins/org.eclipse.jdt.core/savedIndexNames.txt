@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Resh\backup\eclipse\coding_practice\.metadata\.plugins\org.eclipse.jdt.core
+3038557543.index
+3312960021.index
+3386490216.index
+3546951345.index
+1781412199.index
